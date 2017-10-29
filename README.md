@@ -1,0 +1,2 @@
+# odoo-moudule
+Entro Project
